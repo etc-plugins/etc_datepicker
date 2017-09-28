@@ -1,0 +1,5 @@
+h1. etc_datepicker
+
+"Download":https://github.com/etc-plugins/etc_datepicker/releases | "Packagist":https://packagist.org/packages/etc-plugins/etc_datepicker
+
+This Textpattern plugin provides a datepicker UI widget for Textpattern CMS administration panels.

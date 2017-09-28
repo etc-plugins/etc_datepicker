@@ -1,0 +1,16 @@
+{
+  "name": "etc-plugins/etc_datepicker",
+  "description": "Datepicker UI widget for Textpattern CMS administration panels.",
+  "keywords": ["textpattern", "plugin", "datepicker"],
+  "homepage": "https://github.com/etc-plugins/etc_datepicker",
+  "license": "GPL-2.0",
+  "type": "textpattern-plugin",
+  "support": {
+    "issues": "https://github.com/etc-plugins/etc_datepicker/issues",
+    "source": "https://github.com/etc-plugins/etc_datepicker"
+  },
+  "require": {
+    "textpattern/lock": ">=4.6.0",
+    "textpattern/installer": "*"
+  }
+}

@@ -18,9 +18,9 @@ $plugin['name'] = 'etc_datepicker';
 # $plugin['allow_html_help'] = 1;
 
 $plugin['version'] = '0.3.2';
-$plugin['author'] = '';
-$plugin['author_uri'] = '';
-$plugin['description'] = '';
+$plugin['author'] = 'Oleg Loukianov';
+$plugin['author_uri'] = 'http://www.iut-fbleau.fr/projet/etc/';
+$plugin['description'] = 'Datepicker UI widget';
 
 // Plugin load order:
 // The default value of 5 would fit most plugins, while for instance comment
